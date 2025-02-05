@@ -4,8 +4,6 @@
   <url>
     <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>http://localhost:1313/hist8010/analysis/</loc>
-  </url><url>
     <loc>http://localhost:1313/hist8010/sources/</loc>
   </url><url>
     <loc>http://localhost:1313/hist8010/visualization/</loc>
@@ -17,6 +15,8 @@
     <loc>http://localhost:1313/posts/re6/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
+  </url><url>
+    <loc>http://localhost:1313/hist8010/analysis/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
