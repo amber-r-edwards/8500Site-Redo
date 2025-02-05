@@ -5,8 +5,8 @@ projecttype: Blog Post
 ---
   If doing research is a car, analysis is the oil or the gas – you technically have a car without it, but it isn’t really worth anything or useful to take you anywhere. These exercises contributed to the overall ‘professionalization’ goal of this course/program more broadly, and inform how to engage with other historians and scholarship. Without being able to read other analyses with a critical eye, discern fact from argumentation, and – particularly for my aims – consider digital projects and their unique contributions, there isn’t a well rounded goal to working with sources or creating visualizations.  
 
-  ![screenshot from Little Women](/content/RE6.png)
-[RE6 - Critical Readings(s)](/posts/re6)
+  ![screenshot from Little Women](/images/littlewomen.png)
+## [RE6 - Critical Readings(s)](/posts/re6)
 
 While I certainly had experience with critical reading, I did not have as much experience considering reviews prior to graduate school. During undergrad, I saw reviews as falling under the same category of reading Sparknotes or a summary instead of actually doing readings for class – which it certainly still can be – not as a key part of professional history. Adding reviews into my process of reading has been a huge takeaway of this semester as a whole – and immensely helpful for getting accustomed to seeing connections within historiography. Reviews provide examples of how a work was received, where it fits into existing scholarship, and direct toward further reading along the same – or opposing – lines of argumentation.
 
@@ -19,4 +19,4 @@ What I did not include is my own critique of Donahues assessment of women within
 In my blog post, I make this comment in passing and focus on the statements of the reviewers as considering the generational focus of the work as a novel framing.I still very strongly stand by my critique of the treatment of women in this book – despite how well supported and interesting it is as a whole – and see the glazing over of my own opinion as a part of my own process in finding my voice this semester.Something engaging with critical reading and discussion offers a historian is an ability to confidently articulate their own thoughts within the context of others who may or may not agree, which sounds straight forward but is a skill in itself to learn to see one’s own opinion as valid within scholarship – if you don’t, who will?
 
 ## Click the image for more 
-[![image from Miss America pagent protest](/content/RE9.png)](https://amberedwards.net/?p=303)
+[![image from Miss America pagent protest](/images/missamerica.png)](https://amberedwards.net/?p=303)
