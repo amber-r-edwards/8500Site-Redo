@@ -3,13 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hist8010/analysis/</loc>
-    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hist8010/</loc>
-    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hist8010/sources/</loc>
   </url><url>
@@ -17,9 +12,15 @@
   </url><url>
     <loc>http://localhost:1313/posts/re1/</loc>
   </url><url>
+    <loc>http://localhost:1313/posts/re5/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/re6/</loc>
+  </url><url>
     <loc>http://localhost:1313/projects/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/hist8010/</loc>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
   </url><url>

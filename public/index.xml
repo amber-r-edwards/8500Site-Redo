@@ -9,13 +9,6 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/hist8010/analysis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hist8010/analysis/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html&gt;&#xA;    &lt;head&gt;&#xA;        &lt;title&gt;Analysis&lt;/title&gt;&#xA;        &lt;date&gt;Dec 1, 2024&lt;/date&gt;&#xA;    &lt;/head&gt;&#xA;    &lt;body&gt;&#xA;        &lt;h1&gt;Analysis&lt;/h1&gt;&#xA;        &lt;br&gt;&#xA;        &lt;p&gt;If doing research is a car, analysis is the oil or the gas – you technically have a car without it, but it isn’t really worth anything or useful to take you anywhere.&#xA;             These exercises contributed to the overall ‘professionalization’ goal of this course/program more broadly, and inform how to engage with other historians and scholarship.&#xA;             Without being able to read other analyses with a critical eye, discern fact from argumentation, and – particularly for my aims – consider digital projects and their unique contributions, there isn’t a well rounded goal to working with sources or creating visualizations.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
       <link>http://localhost:1313/hist8010/sources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/hist8010/sources/</guid>
@@ -55,6 +48,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/</guid>
       <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html&gt;&#xA;    &lt;head&gt;&#xA;        &lt;title&gt;Projects&lt;/title&gt;&#xA;    &lt;/head&gt;&#xA;    &lt;body&gt;&#xA;        &lt;br&gt;&#xA;        &lt;h1&gt;&lt;strong&gt;Projects&lt;/strong&gt;&lt;/h1&gt;&#xA;            &lt;h2&gt;Mapping Psychedelic Rock&lt;/h2&gt;&#xA;            &lt;h5&gt;Janis Joplin &amp; Jefferson Airplane: 1966-1970&lt;/h5&gt;&#xA;            &lt;a href=&#34;https://clemson.maps.arcgis.com/apps/mapviewer/index.html?webmap=fe46a43e7ec34a2395dc910755e658f1&#34;&gt;&lt;img src=&#34;http://localhost:1313/ago_downloaded.png&#34; alt=&#34;image of a map&#34; style=&#34;float:left;&#34;/&gt;&lt;/a&gt;&#xA;            &lt;p&gt;Created alongside a project proposal for HIST 8540 - Spatial History, this map displays the locations of Janis Joplin and Jefferson Airplane&#39;s concerts over 1966-1970.&lt;br&gt;&#xA;                 Each year is separated into a separate layer - able to be toggled on and off to hide/reveal overlapping venues.&lt;/p&gt;&#xA;            &lt;br&gt;&#xA;            &lt;br&gt;&#xA;            &lt;h2&gt;Sixties Timeline&lt;/h2&gt;&#xA;            &lt;a href=&#34;https://amberedwards.net/?p=292&#34;&gt;&lt;img src=&#34;http://localhost:1313/peacebook10.jpg&#34; alt=&#34;image of a guitar case&#34; style=&#34;height:150px; float:left;&#34;/&gt;&lt;/a&gt;&#xA;            &lt;p&gt;Part of the HIST 8010 Research Skills and Digital Tools Portfolio, this is a Timeline.JS experiment of various events that define The Sixties - capped at 1963.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Analysis</title>
+      <link>http://localhost:1313/hist8010/analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hist8010/analysis/</guid>
+      <description>&lt;p&gt;If doing research is a car, analysis is the oil or the gas – you technically have a car without it, but it isn’t really worth anything or useful to take you anywhere. These exercises contributed to the overall ‘professionalization’ goal of this course/program more broadly, and inform how to engage with other historians and scholarship. Without being able to read other analyses with a critical eye, discern fact from argumentation, and – particularly for my aims – consider digital projects and their unique contributions, there isn’t a well rounded goal to working with sources or creating visualizations.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
