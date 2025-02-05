@@ -9,13 +9,6 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/hist8010/sources/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hist8010/sources/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html&gt;&#xA;    &lt;head&gt;&#xA;        &lt;title&gt;Sources&lt;/title&gt;&#xA;        &lt;date&gt;Dec 3, 2024&lt;/date&gt;&#xA;    &lt;/head&gt;&#xA;    &lt;body&gt;&#xA;        &lt;h1&gt;Sources&lt;/h1&gt;&#xA;        &lt;p&gt;Regarding sources, we covered how to collect information through note taking, verifying information through citations – and multiple software applications to streamline those processes and make compiling and saving large amounts of data easier and safer. &#xA;            Conceptually, I came into this semester feeling I had a decent handle on what worked for me regarding note taking and research approaches.&#xA;             While that may have been true, what I didn’t realize was the variety of tools available meant explicitly to make my life easier, and the skills required for engaging with sources that I simply had not been exposed to coming from a 2 year break from academia after undergrad.&#xA;             In the following sections, I’ll elaborate on how my practices have changed since making earlier posts, and some reflections on what I find most useful going forward.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
       <link>http://localhost:1313/hist8010/visualization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/hist8010/visualization/</guid>
@@ -55,6 +48,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/hist8010/analysis/</guid>
       <description>&lt;p&gt;If doing research is a car, analysis is the oil or the gas – you technically have a car without it, but it isn’t really worth anything or useful to take you anywhere. These exercises contributed to the overall ‘professionalization’ goal of this course/program more broadly, and inform how to engage with other historians and scholarship. Without being able to read other analyses with a critical eye, discern fact from argumentation, and – particularly for my aims – consider digital projects and their unique contributions, there isn’t a well rounded goal to working with sources or creating visualizations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sources</title>
+      <link>http://localhost:1313/hist8010/sources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hist8010/sources/</guid>
+      <description>&lt;p&gt;Regarding sources, we covered how to collect information through note taking, verifying information through citations – and multiple software applications to streamline those processes and make compiling and saving large amounts of data easier and safer. Conceptually, I came into this semester feeling I had a decent handle on what worked for me regarding note taking and research approaches. While that may have been true, what I didn’t realize was the variety of tools available meant explicitly to make my life easier, and the skills required for engaging with sources that I simply had not been exposed to coming from a 2 year break from academia after undergrad.In the following sections, I’ll elaborate on how my practices have changed since making earlier posts, and some reflections on what I find most useful going forward.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
