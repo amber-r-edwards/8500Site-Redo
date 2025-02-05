@@ -1,0 +1,12 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+<ul>
+    {{ range .Pages }}
+    
+    <li>
+        <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2><span class="badge bg-primary">{{ .Params.projecttype }}</span>
+    </li>
+    {{ end }}
+</ul>
+{{ end }}
