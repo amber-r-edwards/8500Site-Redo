@@ -1,6 +1,6 @@
 ---
 title: Amber R. Edwards
-tags: "home"
+tags:
 ---
 
 ## Digital History Ph. D. Student
