@@ -37,13 +37,6 @@
       <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html&gt;&#xA;    &lt;head&gt;&#xA;        &lt;title&gt;RE6 - Critical Reading(s)&lt;/title&gt;&#xA;        &lt;date&gt;2024-10-09&lt;/date&gt;&#xA;    &lt;/head&gt;&#xA;    &lt;body&gt;&#xA;        &lt;h1&gt;RE6 - Critical Reading(s)&lt;/h1&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/GreatMeadow.jpg&#34; alt=&#34;cover of The Great Meadow, by Brian Donahue&#34; style=&#34;width:350px; float:left&#34;&gt;&#xA;            &lt;p&gt;This week we’re looking at reviews, for which I chose a book for my Spatial History class, The Great Meadow: Farmers and the Land in Colonial Concord.&#xA;                 Having already reviewed this work in contrast with corresponding articles and digital projects, I was curious to see what other thought of it closer to the time it came out.&lt;/p&gt;</description>
     </item>
     <item>
-      <title></title>
-      <link>http://localhost:1313/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;h1 id=&#34;projects&#34;&gt;Projects&lt;/h1&gt;&#xA;&lt;h2 id=&#34;mapping-psychedelic-rock-janis-joplin--jefferson-airplane-1966-1970&#34;&gt;Mapping Psychedelic Rock: Janis Joplin &amp;amp; Jefferson Airplane, 1966-1970&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://clemson.maps.arcgis.com/apps/mapviewer/index.html?webmap=fe46a43e7ec34a2395dc910755e658f1&#34;&gt;&lt;img src=&#34;http://localhost:1313/ago_downloaded.png&#34; alt=&#34;image of concert map&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Created alongside a project proposal for HIST 8540 - Spatial History, this map displays the locations of Janis Joplin and Jefferson Airplane&amp;rsquo;s concerts over 1966-1970. Each year is separated into a separate layer - able to be toggled on and off to hide/reveal overlapping venues.&lt;/p&gt;&#xA;&lt;h2 id=&#34;sixties-timeline&#34;&gt;Sixties Timeline&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://amberedwards.net/?p=292&#34;&gt;&lt;img src=&#34;http://localhost:1313/peacebook10.jpg&#34; alt=&#34;image of a guitarcase with a peace sign sticker&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>About Me</title>
       <link>http://localhost:1313/about.es/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -70,6 +63,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contact/</guid>
       <description>&lt;p&gt;My office hours for undergraduate students are listed on the course syllabus. Unless otherwise stated, all office hours are held in person in the History Department Graduate Office - Hardin Hall 001.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h2 id=&#34;click-the-images-to-explore&#34;&gt;Click the images to explore&lt;/h2&gt;&#xA;&lt;h4 id=&#34;mapping-psychedelic-rock-janis-joplin--jefferson-airplane-1966-1970&#34;&gt;Mapping Psychedelic Rock: Janis Joplin &amp;amp; Jefferson Airplane, 1966-1970&lt;/h4&gt;&#xA;&#xA; &#xA;&lt;a href=&#34;https://clemson.maps.arcgis.com/apps/mapviewer/index.html?webmap=fe46a43e7ec34a2395dc910755e658f1&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/mapimage.png&#34; alt=&#34;map of the US with points representing Janis Joplin&#39;s concenrts&#34; style=&#34;height:235px; float : left;&#34;/&gt;&lt;/a&gt;&#xA;&#xA; &#xA;&lt;p&gt;Created alongside a project proposal for HIST 8540 - Spatial History, this map displays the locations of Janis Joplin and Jefferson Airplane&amp;rsquo;s concerts over 1966-1970. Each year is separated into a separate layer - able to be toggled on and off to hide/reveal overlapping venues (especially relevant to early concerts in San Francisco).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sources</title>
