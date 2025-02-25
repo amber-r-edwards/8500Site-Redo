@@ -18,8 +18,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/re6/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-  </url><url>
     <loc>http://localhost:1313/about.es/</loc>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
@@ -31,6 +29,8 @@
     <loc>http://localhost:1313/hist8010/</loc>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
   </url><url>
     <loc>http://localhost:1313/hist8010/sources/</loc>
   </url><url>

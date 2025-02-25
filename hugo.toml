@@ -21,7 +21,7 @@ theme = "hugo-bootstrap-5"
   languageName = "English"
 
   # Replace the default footer message with a localized message
-  # copyright = "Hugo template made with ❤ by Xzya"
+  # copyright = 
 
   [[languages.en.menu.main]]
     url = "/"
@@ -39,6 +39,10 @@ theme = "hugo-bootstrap-5"
     url = "/HIST8010/"
     name = "HIST8010 Portfolio"
     weight = 3
+    [[languages.en.menu.main]]
+    url = "/cv/"
+    name = "CV"
+    weight = 5
 
 # Links format
 
