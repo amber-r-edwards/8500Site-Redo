@@ -1,7 +1,6 @@
 ---
 title: Sources
 date: 
-projecttype: Blog Post
 ---
 Regarding sources, we covered how to collect information through note taking, verifying information through citations – and multiple software applications to streamline those processes and make compiling and saving large amounts of data easier and safer. Conceptually, I came into this semester feeling I had a decent handle on what worked for me regarding note taking and research approaches. While that may have been true, what I didn’t realize was the variety of tools available meant explicitly to make my life easier, and the skills required for engaging with sources that I simply had not been exposed to coming from a 2 year break from academia after undergrad.In the following sections, I’ll elaborate on how my practices have changed since making earlier posts, and some reflections on what I find most useful going forward.
 

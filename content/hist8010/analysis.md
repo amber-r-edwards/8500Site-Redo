@@ -1,7 +1,6 @@
 ---
 title: Analysis
 date: 
-projecttype: Blog Post
 ---
   If doing research is a car, analysis is the oil or the gas – you technically have a car without it, but it isn’t really worth anything or useful to take you anywhere. These exercises contributed to the overall ‘professionalization’ goal of this course/program more broadly, and inform how to engage with other historians and scholarship. Without being able to read other analyses with a critical eye, discern fact from argumentation, and – particularly for my aims – consider digital projects and their unique contributions, there isn’t a well rounded goal to working with sources or creating visualizations.  
 

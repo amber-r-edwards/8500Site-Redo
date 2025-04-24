@@ -1,7 +1,6 @@
 ---
 title: Visualization
 date: 
-projecttype: Blog Post
 ---
 Visualizations, certainly the most entertaining, led to the most thoughtful consideration about where my research interests align with digital work.Having some experience with online exhibits through Omeka, Storymaps, and general presentation experience that pulled in different visualizations adjacent to those we covered, I found myself surprised at the novelty some of the tools’ utility for different projects.While I’ll analyze my usage of these tools from a current perspective, I’m especially interested in reflecting on how I see visualization tools differently from the thought process of looking toward an eventual dissertation.
 
