@@ -21,6 +21,6 @@ Currently I am a graduate teaching assistant, working with Dr. Andrew Baker in U
 
 
 #### How to Reach Me
-I am most active on [LinkedIn](https://www.linkedin.com/in/amber-edwards-82135b231/). Here I migrated a sample of blog posts created for HIST8010 Historical Researhc and Digital Methods, originally created for a WordPress of the same domain name (no longer active). I also have a [GitHub](https://github.com/amber-r-edwards) with basic repositories and work for HIST8500.
+I am most active on [LinkedIn](https://www.linkedin.com/in/amber-edwards-82135b231/). I also have a [GitHub](https://github.com/amber-r-edwards) with basic repositories and work for HIST8500.
 
 My office hours for undergraduate students are listed on the course syllabus. Unless otherwise stated, all office hours are held in person in the History Department Graduate Office - Hardin Hall 001.
