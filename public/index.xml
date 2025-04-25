@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Amber R. Edwards</title>
-    <link>https://example.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Amber R. Edwards</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Site</title>
-      <link>https://example.com/posts/post/</link>
+      <link>http://localhost:1313/posts/post/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/posts/post/</guid>
+      <guid>http://localhost:1313/posts/post/</guid>
       <description>&lt;p&gt;Hello world!&lt;/p&gt;</description>
     </item>
     <item>
       <title>RE1-Collecting Information</title>
-      <link>https://example.com/posts/re1/</link>
+      <link>http://localhost:1313/posts/re1/</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/posts/re1/</guid>
+      <guid>http://localhost:1313/posts/re1/</guid>
       <description>&lt;p&gt;Note taking is one of the most important research tools, and the first step to writing a successful argument for any length of paper. My note taking style revolves around summarizing topics and arguments as well as catching any recurring themes that may be helpful to my research aims. Turabian’s Manual for Writers breaks down what research is, how we should think of it, and how to conduct it properly in order to best articulate our argument. The topic sentence breakdown of &amp;ldquo;I am working on X because I want to find out Y, so that I can help others understand Z” is something foundational that is taught in high schools and undergrad, but understanding each element will help you identify topics when reading other historians’ work. Not every source you read will follow that sentence structure, not even close, but in every good argument those three elements should be present in some form. I’ll also highlight any names or works that I recognize to draw connections when I put my notes into Obsidian (a note-taking software). Each book I’ve read has its own page on Obsidian where I keep a quick summary, notes about the author, and tags for each theme to tie the different pages together.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://example.com/cv/</link>
+      <link>http://localhost:1313/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/cv/</guid>
+      <guid>http://localhost:1313/cv/</guid>
       <description>&lt;h1 id=&#34;amber-r-edwards&#34;&gt;Amber R. Edwards&lt;/h1&gt;&#xA;&lt;p&gt;Hardin Hall: 403 Calhoun Dr., Clemson, SC 29634&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:are4@clemson.edu&#34;&gt;are4@clemson.edu&lt;/a&gt; | &lt;a href=&#34;https://amberedwards.net/&#34;&gt;https://amberedwards.net/&lt;/a&gt; | &lt;a href=&#34;https://github.com/amber-r-edwards&#34;&gt;GitHub&lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/in/amber-edwards-82135b231/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h5 id=&#34;education&#34;&gt;EDUCATION&lt;/h5&gt;&#xA;&lt;p&gt;&lt;strong&gt;Clemson University&lt;/strong&gt;, Clemson, SC – In Progress&#xA;Ph.D. Student, Digital History, 20th Century American History – Women, Gender &amp;amp; Sexuality&#xA;&lt;strong&gt;Centre College&lt;/strong&gt;, Danville, KY – 2022&#xA;BA, History and French Language &amp;amp; Culture – Magna Cum Laude&lt;/p&gt;&#xA;&lt;h5 id=&#34;research-fields--interests&#34;&gt;RESEARCH FIELDS &amp;amp; INTERESTS&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;U.S. History; Women, Gender, and Sexuality; Counterculture; Popular Culture; and Digital History&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h5 id=&#34;grantsfellowships&#34;&gt;GRANTS/FELLOWSHIPS&lt;/h5&gt;&#xA;&lt;p&gt;&lt;strong&gt;Clemson Humanities Hub Graduate Summer Fellowship&lt;/strong&gt; – Summer 2025&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://example.com/posts/re5/</link>
+      <link>http://localhost:1313/posts/re5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/posts/re5/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html&gt;&#xA;    &lt;head&gt;&#xA;        &lt;title&gt;RE5 - The Impact of the AI Revolution on Information Archives&lt;/title&gt;&#xA;        &lt;date&gt;2024-10-05&lt;/date&gt;&#xA;    &lt;/head&gt;&#xA;    &lt;body&gt;&#xA;        &lt;h1&gt;RE5 - The Impact of the AI Revolution on Information Archives&lt;/h1&gt;&#xA;        &lt;img src=&#34;https://example.com/RE5.png&#34; alt=&#34;two women with caption That Woman is Real Competition&#34; style=&#34;width:250px; float:left&#34;&gt;&#xA;        &lt;br&gt;&lt;br&gt;&#xA;        &lt;p&gt;This week, in correlation with Clemson’s Humanities in the Machine Symposium, we’re looking at JSTOR’s beta AI tool.&#xA;             The article I chose to analyze is “Sex and the Me Decade: Sex and Dating Advice Literature of the 1970s” by Anna Ward in &lt;em&gt;Women’s Studies Quarterly&lt;/em&gt; in 2015.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/re5/</guid>
+      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html&gt;&#xA;    &lt;head&gt;&#xA;        &lt;title&gt;RE5 - The Impact of the AI Revolution on Information Archives&lt;/title&gt;&#xA;        &lt;date&gt;2024-10-05&lt;/date&gt;&#xA;    &lt;/head&gt;&#xA;    &lt;body&gt;&#xA;        &lt;h1&gt;RE5 - The Impact of the AI Revolution on Information Archives&lt;/h1&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/RE5.png&#34; alt=&#34;two women with caption That Woman is Real Competition&#34; style=&#34;width:250px; float:left&#34;&gt;&#xA;        &lt;br&gt;&lt;br&gt;&#xA;        &lt;p&gt;This week, in correlation with Clemson’s Humanities in the Machine Symposium, we’re looking at JSTOR’s beta AI tool.&#xA;             The article I chose to analyze is “Sex and the Me Decade: Sex and Dating Advice Literature of the 1970s” by Anna Ward in &lt;em&gt;Women’s Studies Quarterly&lt;/em&gt; in 2015.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://example.com/posts/re6/</link>
+      <link>http://localhost:1313/posts/re6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/posts/re6/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html&gt;&#xA;    &lt;head&gt;&#xA;        &lt;title&gt;RE6 - Critical Reading(s)&lt;/title&gt;&#xA;        &lt;date&gt;2024-10-09&lt;/date&gt;&#xA;    &lt;/head&gt;&#xA;    &lt;body&gt;&#xA;        &lt;h1&gt;RE6 - Critical Reading(s)&lt;/h1&gt;&#xA;        &lt;img src=&#34;https://example.com/GreatMeadow.jpg&#34; alt=&#34;cover of The Great Meadow, by Brian Donahue&#34; style=&#34;width:350px; float:left&#34;&gt;&#xA;            &lt;p&gt;This week we’re looking at reviews, for which I chose a book for my Spatial History class, The Great Meadow: Farmers and the Land in Colonial Concord.&#xA;                 Having already reviewed this work in contrast with corresponding articles and digital projects, I was curious to see what other thought of it closer to the time it came out.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/re6/</guid>
+      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html&gt;&#xA;    &lt;head&gt;&#xA;        &lt;title&gt;RE6 - Critical Reading(s)&lt;/title&gt;&#xA;        &lt;date&gt;2024-10-09&lt;/date&gt;&#xA;    &lt;/head&gt;&#xA;    &lt;body&gt;&#xA;        &lt;h1&gt;RE6 - Critical Reading(s)&lt;/h1&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/GreatMeadow.jpg&#34; alt=&#34;cover of The Great Meadow, by Brian Donahue&#34; style=&#34;width:350px; float:left&#34;&gt;&#xA;            &lt;p&gt;This week we’re looking at reviews, for which I chose a book for my Spatial History class, The Great Meadow: Farmers and the Land in Colonial Concord.&#xA;                 Having already reviewed this work in contrast with corresponding articles and digital projects, I was curious to see what other thought of it closer to the time it came out.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>https://example.com/about.es/</link>
+      <link>http://localhost:1313/about.es/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/about.es/</guid>
+      <guid>http://localhost:1313/about.es/</guid>
       <description>&lt;p&gt;My name is Amber Edwards and I am a first year Digital History PhD student at Clemson University, studying 20th Century American History with a concentration in Women, Gender, and Sexuality. I’m interested in studying the emergence of Women’s Liberation and the Sexual Revolution and their impact on American culture and mass media – cultural impacts of the music industry and Rock ‘n’ Roll specifically being a key research interest of mine.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>https://example.com/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;My name is Amber Edwards and I am a first year Digital History PhD student at Clemson University, studying 20th Century American History with a concentration in Women, Gender, and Sexuality. I’m interested in studying the emergence of Women’s Liberation and the Sexual Revolution and their impact on American culture and mass media – cultural impacts of the music industry and Rock ‘n’ Roll specifically being a key research interest of mine.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Analysis</title>
-      <link>https://example.com/hist8010/analysis/</link>
+      <link>http://localhost:1313/hist8010/analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/hist8010/analysis/</guid>
+      <guid>http://localhost:1313/hist8010/analysis/</guid>
       <description>&lt;p&gt;If doing research is a car, analysis is the oil or the gas – you technically have a car without it, but it isn’t really worth anything or useful to take you anywhere. These exercises contributed to the overall ‘professionalization’ goal of this course/program more broadly, and inform how to engage with other historians and scholarship. Without being able to read other analyses with a critical eye, discern fact from argumentation, and – particularly for my aims – consider digital projects and their unique contributions, there isn’t a well rounded goal to working with sources or creating visualizations.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to Reach Me</title>
-      <link>https://example.com/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;p&gt;My office hours for undergraduate students are listed on the course syllabus. Unless otherwise stated, all office hours are held in person in the History Department Graduate Office - Hardin Hall 001.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>https://example.com/projects/</link>
+      <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/</guid>
-      <description>&lt;h2 id=&#34;click-the-images-to-explore&#34;&gt;Click the images to explore&lt;/h2&gt;&#xA;&lt;h4 id=&#34;mapping-psychedelic-rock-janis-joplin--jefferson-airplane-1966-1970&#34;&gt;Mapping Psychedelic Rock: Janis Joplin &amp;amp; Jefferson Airplane, 1966-1970&lt;/h4&gt;&#xA;&#xA; &#xA;&lt;a href=&#34;https://clemson.maps.arcgis.com/apps/mapviewer/index.html?webmap=fe46a43e7ec34a2395dc910755e658f1&#34;&gt;&lt;img src=&#34;https://example.com/images/mapimage.png&#34; alt=&#34;map of the US with points representing Janis Joplin&#39;s concenrts&#34; style=&#34;height:235px; float : left;&#34;/&gt;&lt;/a&gt;&#xA;&#xA; &#xA;&lt;p&gt;Created alongside a project proposal for HIST 8540 - Spatial History, this map displays the locations of Janis Joplin and Jefferson Airplane&amp;rsquo;s concerts over 1966-1970. Each year is separated into a separate layer - able to be toggled on and off to hide/reveal overlapping venues (especially relevant to early concerts in San Francisco).&lt;/p&gt;</description>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h2 id=&#34;click-the-images-to-explore&#34;&gt;Click the images to explore&lt;/h2&gt;&#xA;&lt;h4 id=&#34;mapping-psychedelic-rock-janis-joplin--jefferson-airplane-1966-1970&#34;&gt;Mapping Psychedelic Rock: Janis Joplin &amp;amp; Jefferson Airplane, 1966-1970&lt;/h4&gt;&#xA;&#xA; &#xA;&lt;a href=&#34;https://clemson.maps.arcgis.com/apps/mapviewer/index.html?webmap=fe46a43e7ec34a2395dc910755e658f1&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/mapimage.png&#34; alt=&#34;map of the US with points representing Janis Joplin&#39;s concerts&#34;&gt; &lt;img class=&#34;padded-image&#34;&gt;&gt;&lt;/a&gt;&#xA;&#xA; &#xA;&lt;p&gt;Created alongside a project proposal for HIST 8540 - Spatial History, this map displays the locations of Janis Joplin and Jefferson Airplane&amp;rsquo;s concerts over 1966-1970. Each year is separated into a separate layer - able to be toggled on and off to hide/reveal overlapping venues (especially relevant to early concerts in San Francisco).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sources</title>
-      <link>https://example.com/hist8010/sources/</link>
+      <link>http://localhost:1313/hist8010/sources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/hist8010/sources/</guid>
+      <guid>http://localhost:1313/hist8010/sources/</guid>
       <description>&lt;p&gt;Regarding sources, we covered how to collect information through note taking, verifying information through citations – and multiple software applications to streamline those processes and make compiling and saving large amounts of data easier and safer. Conceptually, I came into this semester feeling I had a decent handle on what worked for me regarding note taking and research approaches. While that may have been true, what I didn’t realize was the variety of tools available meant explicitly to make my life easier, and the skills required for engaging with sources that I simply had not been exposed to coming from a 2 year break from academia after undergrad.In the following sections, I’ll elaborate on how my practices have changed since making earlier posts, and some reflections on what I find most useful going forward.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Visualization</title>
-      <link>https://example.com/hist8010/visualization/</link>
+      <link>http://localhost:1313/hist8010/visualization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/hist8010/visualization/</guid>
+      <guid>http://localhost:1313/hist8010/visualization/</guid>
       <description>&lt;p&gt;Visualizations, certainly the most entertaining, led to the most thoughtful consideration about where my research interests align with digital work.Having some experience with online exhibits through Omeka, Storymaps, and general presentation experience that pulled in different visualizations adjacent to those we covered, I found myself surprised at the novelty some of the tools’ utility for different projects.While I’ll analyze my usage of these tools from a current perspective, I’m especially interested in reflecting on how I see visualization tools differently from the thought process of looking toward an eventual dissertation.&lt;/p&gt;</description>
     </item>
   </channel>
