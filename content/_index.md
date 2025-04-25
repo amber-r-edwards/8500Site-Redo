@@ -7,7 +7,7 @@ tags:
 
 
 {{< raw-html >}}
-<img src="images/24Headshot.jpg" alt="image of Amber Edwards" style="height:300px; float :right;"/>
+<img src="images/24Headshot.jpg" alt="image of Amber Edwards" style="height:300px; float :right; paddding:5px"/>
 {{< / raw-html >}}
 
 #### About Me

@@ -1,5 +1,6 @@
 ---
 title: Projects
+author: " "
 ---
 ## Click the images to explore
 
