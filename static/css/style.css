@@ -7,5 +7,9 @@
 img.padded-image {
    padding: 10px;
    float: left;
-   height: 10px;
+   height: 400px;
+  }
+
+  p {
+    margin-bottom: 1.6rem; /* Adjust the value as needed */
   }
