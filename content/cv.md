@@ -25,6 +25,7 @@ BA, History and French Language & Culture – Magna Cum Laude
 
 ##### TEACHING EXPERIENCE
 **Graduate Teaching Assistant**, HIST1010: U.S. to 1877, Dr. James Jeffries, Clemson University – Fall 2024
+
 **Graduate Teaching Assistant**, HIST1010: U.S. to 1877, Dr. Andrew Baker, Clemson University – Spring 2025
 
 
